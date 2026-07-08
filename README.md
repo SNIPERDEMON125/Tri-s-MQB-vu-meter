@@ -8,7 +8,7 @@ Hardware Setup
 
     Microcontroller: Arduino (e.g., Uno, Nano, or Mega).
 
-    VW Golf 7 Gauge Cluster
+    VW Golf 7 Gauge Cluster *MQB*
 
     MCPC2515 Module
 
